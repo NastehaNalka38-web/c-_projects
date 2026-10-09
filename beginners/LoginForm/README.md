@@ -1,5 +1,5 @@
-### Login form image
+### Login Form image
 ![login](/beginners/LoginForm/Screenshoots/image1.png)
 
-### lofin successfuly!
+### login Successfuly!
 ![login](/beginners/LoginForm/Screenshoots/image2.png)
