@@ -1,0 +1,10 @@
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\bin\Debug\Counter_App.exe.config
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\bin\Debug\Counter_App.exe
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\bin\Debug\Counter_App.pdb
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\obj\Debug\Counter_App.csproj.AssemblyReference.cache
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\obj\Debug\Counter_App.Form1.resources
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\obj\Debug\Counter_App.Properties.Resources.resources
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\obj\Debug\Counter_App.csproj.GenerateResource.cache
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\obj\Debug\Counter_App.csproj.CoreCompileInputs.cache
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\obj\Debug\Counter_App.exe
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\CounterApp\Counter_App\obj\Debug\Counter_App.pdb
