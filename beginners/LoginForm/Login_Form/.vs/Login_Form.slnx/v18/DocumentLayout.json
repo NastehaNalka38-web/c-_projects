@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wireless\\Documents\\My projects\\C#_Projects\\c#_projects\\beginners\\LoginForm\\Login_Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43852DDC-1952-41A2-B3CB-E3B8DDDD7E19}|Login_Form.csproj|c:\\users\\wireless\\documents\\my projects\\c#_projects\\c#_projects\\beginners\\loginform\\login_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43852DDC-1952-41A2-B3CB-E3B8DDDD7E19}|Login_Form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43852DDC-1952-41A2-B3CB-E3B8DDDD7E19}|Login_Form.csproj|c:\\users\\wireless\\documents\\my projects\\c#_projects\\c#_projects\\beginners\\loginform\\login_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43852DDC-1952-41A2-B3CB-E3B8DDDD7E19}|Login_Form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Wireless\\Documents\\My projects\\C#_Projects\\c#_projects\\beginners\\LoginForm\\Login_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Wireless\\Documents\\My projects\\C#_Projects\\c#_projects\\beginners\\LoginForm\\Login_Form\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T15:01:48.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wireless\\Documents\\My projects\\C#_Projects\\c#_projects\\beginners\\LoginForm\\Login_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Wireless\\Documents\\My projects\\C#_Projects\\c#_projects\\beginners\\LoginForm\\Login_Form\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T14:39:44.373Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
