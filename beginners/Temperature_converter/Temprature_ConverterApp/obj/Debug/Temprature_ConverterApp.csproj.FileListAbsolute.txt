@@ -1,0 +1,10 @@
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\bin\Debug\Temprature_ConverterApp.exe.config
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\bin\Debug\Temprature_ConverterApp.exe
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\bin\Debug\Temprature_ConverterApp.pdb
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\obj\Debug\Temprature_ConverterApp.csproj.AssemblyReference.cache
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\obj\Debug\Temprature_ConverterApp.Form1.resources
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\obj\Debug\Temprature_ConverterApp.Properties.Resources.resources
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\obj\Debug\Temprature_ConverterApp.csproj.GenerateResource.cache
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\obj\Debug\Temprature_ConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\obj\Debug\Temprature_ConverterApp.exe
+C:\Users\Wireless\Documents\My projects\C#_Projects\c#_projects\beginners\Temperature_converter\Temprature_ConverterApp\obj\Debug\Temprature_ConverterApp.pdb
