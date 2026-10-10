@@ -35,10 +35,10 @@
             this.ConvertBtn = new System.Windows.Forms.Button();
             this.lblResultOut = new System.Windows.Forms.Label();
             this.groupUnits = new System.Windows.Forms.GroupBox();
+            this.F2CBtn = new System.Windows.Forms.RadioButton();
+            this.C2FBtn = new System.Windows.Forms.RadioButton();
             this.ResetBtn = new System.Windows.Forms.Button();
             this.ExitBtn = new System.Windows.Forms.Button();
-            this.C2FBtn = new System.Windows.Forms.RadioButton();
-            this.F2CBtn = new System.Windows.Forms.RadioButton();
             this.groupUnits.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -86,6 +86,7 @@
             // 
             // ConvertBtn
             // 
+            this.ConvertBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.ConvertBtn.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ConvertBtn.Location = new System.Drawing.Point(49, 508);
             this.ConvertBtn.Name = "ConvertBtn";
@@ -120,8 +121,35 @@
             this.groupUnits.TabStop = false;
             this.groupUnits.Text = "Select the units";
             // 
+            // F2CBtn
+            // 
+            this.F2CBtn.AutoSize = true;
+            this.F2CBtn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.F2CBtn.ForeColor = System.Drawing.Color.White;
+            this.F2CBtn.Location = new System.Drawing.Point(44, 127);
+            this.F2CBtn.Name = "F2CBtn";
+            this.F2CBtn.Size = new System.Drawing.Size(249, 26);
+            this.F2CBtn.TabIndex = 1;
+            this.F2CBtn.TabStop = true;
+            this.F2CBtn.Text = "Fahrenheit to Celcius";
+            this.F2CBtn.UseVisualStyleBackColor = true;
+            // 
+            // C2FBtn
+            // 
+            this.C2FBtn.AutoSize = true;
+            this.C2FBtn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.C2FBtn.ForeColor = System.Drawing.Color.White;
+            this.C2FBtn.Location = new System.Drawing.Point(44, 71);
+            this.C2FBtn.Name = "C2FBtn";
+            this.C2FBtn.Size = new System.Drawing.Size(249, 26);
+            this.C2FBtn.TabIndex = 0;
+            this.C2FBtn.TabStop = true;
+            this.C2FBtn.Text = "Celcius to Fehrenheit";
+            this.C2FBtn.UseVisualStyleBackColor = true;
+            // 
             // ResetBtn
             // 
+            this.ResetBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.ResetBtn.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ResetBtn.Location = new System.Drawing.Point(370, 508);
             this.ResetBtn.Name = "ResetBtn";
@@ -133,6 +161,7 @@
             // 
             // ExitBtn
             // 
+            this.ExitBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.ExitBtn.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ExitBtn.Location = new System.Drawing.Point(711, 508);
             this.ExitBtn.Name = "ExitBtn";
@@ -141,30 +170,6 @@
             this.ExitBtn.Text = "&Exit";
             this.ExitBtn.UseVisualStyleBackColor = true;
             this.ExitBtn.Click += new System.EventHandler(this.ExitBtn_Click);
-            // 
-            // C2FBtn
-            // 
-            this.C2FBtn.AutoSize = true;
-            this.C2FBtn.ForeColor = System.Drawing.Color.White;
-            this.C2FBtn.Location = new System.Drawing.Point(44, 71);
-            this.C2FBtn.Name = "C2FBtn";
-            this.C2FBtn.Size = new System.Drawing.Size(249, 26);
-            this.C2FBtn.TabIndex = 0;
-            this.C2FBtn.TabStop = true;
-            this.C2FBtn.Text = "Celcius to Fehrenheit";
-            this.C2FBtn.UseVisualStyleBackColor = true;
-            // 
-            // F2CBtn
-            // 
-            this.F2CBtn.AutoSize = true;
-            this.F2CBtn.ForeColor = System.Drawing.Color.White;
-            this.F2CBtn.Location = new System.Drawing.Point(44, 127);
-            this.F2CBtn.Name = "F2CBtn";
-            this.F2CBtn.Size = new System.Drawing.Size(249, 26);
-            this.F2CBtn.TabIndex = 1;
-            this.F2CBtn.TabStop = true;
-            this.F2CBtn.Text = "Fahrenheit to Celcius";
-            this.F2CBtn.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
